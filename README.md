@@ -4,11 +4,6 @@ The # Astronaut Sleep-Integrated Training System (ASITS) # is a cutting-edge web
 
 This repository features a modern interactive 3D website built with Vite, React, Three.js, and GSAP, providing astronauts and users with an intuitive, space-inspired interface.
 
-https://img.shields.io/badge/Demo-Live%2520Preview-blue?style=for-the-badge
-https://img.shields.io/badge/React-18.2.0-61dafb?style=flat-square&logo=react
-https://img.shields.io/badge/Three.js-R3F-000000?style=flat-square&logo=three.js
-https://img.shields.io/badge/GSAP-Animation-green?style=flat-square
-
 ## ✨ Features
 # 🚀 3D Interactive Landing Page
 Floating astronaut model with zero-gravity mouse-controlled drift
