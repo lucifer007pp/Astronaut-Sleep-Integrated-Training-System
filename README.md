@@ -41,10 +41,17 @@ Optimized for performance and stability
 
 ## 🛠 Tech Stack
 Category	Technology
+
 Framework	React (Vite Template)
+
 3D Rendering	Three.js, React Three Fiber (@react-three/fiber)
+
 3D Utilities	Drei (@react-three/drei)
+
 Animations	GSAP
+
 Routing	React Router DOM
+
 Styling	CSS / Tailwind optional
+
 Assets	GLTF/GLB 3D model for astronaut
